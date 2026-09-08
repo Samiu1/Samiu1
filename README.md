@@ -1,6 +1,6 @@
 # Samiul Islam
 
-Senior AI Product Manager in Toronto. I spent 15 years in controls engineering and IoT (automotive, mining, oil sands) before moving into product. Now I design and build agentic AI systems: multi-agent orchestration, MCP tooling layers, voice AI. I write the requirements and I build the prototypes.
+Senior AI Product Manager in Toronto. I spent 13 years in controls engineering and IoT (automotive, mining, oil sands) before moving into product. Now I design and build agentic AI systems: multi-agent orchestration, MCP tooling layers, voice AI.
 
 ## Featured work
 
