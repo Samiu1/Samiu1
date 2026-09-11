@@ -1,5 +1,7 @@
 # Samiul Islam
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samiulislam-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiulislam)
+
 Senior AI Product Manager in Toronto. I spent 13 years in controls engineering and IoT (automotive, mining, oil sands) before moving into product. Now I design and build agentic AI systems: multi-agent orchestration, MCP tooling layers, voice AI.
 
 ## Featured work
@@ -7,6 +9,10 @@ Senior AI Product Manager in Toronto. I spent 13 years in controls engineering a
 **[Meridian](https://github.com/Samiu1/Meridian)** - A PM agent that turns raw inputs (tickets, transcripts, docs) into decision-ready artifacts: PRDs, user stories, release notes. Approval-gated external writes, streaming UI, and an evaluation harness (15 cases, 57 structural checks) so no skill ships unverified. TypeScript, Next.js, Claude Agent SDK.
 
 **[HealthSignal](https://github.com/Samiu1/HealthSignal)** - A personal health engine that turns Garmin wearable data into a daily Wellness Score. Parallel LangGraph "council of experts" (sleep, performance, stress agents) synthesized into one narrative. Python + Next.js.
+
+**[japandi-starter](https://github.com/Samiu1/japandi-starter)** - A portable Japandi design system: design tokens, a Tailwind preset, and a plain-words style guide that AI coding tools can follow on any stack. [Live demo](https://samiu1.github.io/japandi-starter/example/).
+
+![japandi-starter preview - palette swatches, type scale, cards and buttons on a warm paper background](https://raw.githubusercontent.com/Samiu1/japandi-starter/main/assets/preview.png)
 
 **MCP tooling** - I build with and on the Model Context Protocol: a production MCP + multi-agent system at work, and open-source servers like [Freshdesk-MCP](https://github.com/Samiu1/Freshdesk-MCP) for AI-driven support operations.
 
@@ -24,3 +30,4 @@ Controls engineering (PLCs, industrial IoT) → enterprise AI product strategy a
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/samiulislam)
+- [Speaking resources - Defending the Prompt](https://github.com/Samiu1/SaugaTech-Defending-the-Prompt)
