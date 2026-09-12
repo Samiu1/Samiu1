@@ -23,7 +23,3 @@ Senior AI Product Manager in Toronto. I spent 13 years in controls engineering a
 
 Controls engineering (PLCs, industrial IoT) → enterprise AI product strategy at Formula.Monks across 8 teams for Fortune 500 clients → Senior AI PM at Thinkrr, shipping a voice AI platform and a unified MCP + multi-agent system. The engineering depth is the point: I validate ideas hands-on before they reach production engineering.
 
-## Elsewhere
-
-- [LinkedIn](https://www.linkedin.com/in/samiulislam)
-- [Speaking resources - Defending the Prompt](https://github.com/Samiu1/SaugaTech-Defending-the-Prompt)
