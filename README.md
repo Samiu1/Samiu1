@@ -10,10 +10,6 @@ Senior AI Product Manager in Toronto. I spent 13 years in controls engineering a
 
 **[HealthSignal](https://github.com/Samiu1/HealthSignal)** - A personal health engine that turns Garmin wearable data into a daily Wellness Score. Parallel LangGraph "council of experts" (sleep, performance, stress agents) synthesized into one narrative. Python + Next.js.
 
-**[japandi-starter](https://github.com/Samiu1/japandi-starter)** - A portable Japandi design system: design tokens, a Tailwind preset, and a plain-words style guide that AI coding tools can follow on any stack. [Live demo](https://samiu1.github.io/japandi-starter/example/).
-
-![japandi-starter preview - palette swatches, type scale, cards and buttons on a warm paper background](https://raw.githubusercontent.com/Samiu1/japandi-starter/main/assets/preview.png)
-
 **MCP tooling** - I build with and on the Model Context Protocol: a production MCP + multi-agent system at work, and open-source servers like [Freshdesk-MCP](https://github.com/Samiu1/Freshdesk-MCP) for AI-driven support operations.
 
 **[AppSeed](https://github.com/Samiu1/AppSeed)** - Wraps any web app as a native macOS .app. Swift.
